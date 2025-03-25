@@ -2,7 +2,7 @@
 
 ### 联系方式
 
-- QQ群号：1群：~887298230~ 已满，2群：~755960114~ 已满，3群：450338158
+[QQ群](https://rapidai.github.io/RapidOCRDocs/main/communicate/#qq)
 
 ### Project下载
 
